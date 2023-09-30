@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 h1 {
@@ -7,7 +8,7 @@ h1 {
 }
 
 .a {
-    color: orange;
+    color: rgb(221, 99, 55);
 }
 
 section {
@@ -16,7 +17,7 @@ section {
 
 .b {
     width: 50%;
-    padding: 5%;
+    padding: 3%;
 }
 
 .b img {
@@ -30,4 +31,9 @@ section {
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+
+.top-banner {
+    background-image: url(baground2.jpg.jpg);
+    background-repeat: no-repeat;
 }
