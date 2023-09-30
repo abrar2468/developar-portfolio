@@ -13,11 +13,13 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100pxS;
 }
 
 .b {
     width: 50%;
     padding: 3%;
+
 }
 
 .b img {
@@ -36,4 +38,10 @@ section {
 .top-banner {
     background-image: url(baground2.jpg.jpg);
     background-repeat: no-repeat;
+}
+
+.dream-big {
+    background-image: url(pexels-magda-ehlers-1279813.jpg);
+    background-repeat: no-repeat;
+    background-position-x: right;
 }
